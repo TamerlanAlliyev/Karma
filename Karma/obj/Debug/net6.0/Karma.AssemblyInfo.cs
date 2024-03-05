@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fefa3a885d2b7d80522bf7738a58eed017e3af74")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

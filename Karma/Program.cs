@@ -1,3 +1,6 @@
+using Karma.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace Karma
 {
     public class Program
@@ -7,6 +10,10 @@ namespace Karma
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<KarmaContext>(cfg=>
+            cfg.UseSqlServer(builder.Configuration.GetConnectionString("Karma"))
+                );
 
             var app = builder.Build();
 

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\3.asp.net mvc\\1.projects\\karma-mvc\\backend\\karma\\karma\\migrations\\20240305200730_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|solutionrelative:karma\\migrations\\20240305200730_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\3.asp.net mvc\\1.projects\\karma-mvc\\backend\\karma\\karma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|solutionrelative:karma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\3.asp.net mvc\\1.projects\\karma-mvc\\backend\\karma\\karma\\data\\karmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|solutionrelative:karma\\data\\karmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\3.asp.net mvc\\1.projects\\karma-mvc\\backend\\karma\\karma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|solutionrelative:karma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\3.asp.net mvc\\1.projects\\karma-mvc\\backend\\karma\\karma\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1F180B0-9068-4656-A7B5-990602A0E7D9}|Karma\\Karma.csproj|solutionrelative:karma\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,34 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240305200730_Database.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Migrations\\20240305200730_Database.cs",
+              "RelativeDocumentMoniker": "Karma\\Migrations\\20240305200730_Database.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Migrations\\20240305200730_Database.cs",
+              "RelativeToolTip": "Karma\\Migrations\\20240305200730_Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:07:30.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Program.cs",
+              "RelativeDocumentMoniker": "Karma\\Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Program.cs",
+              "RelativeToolTip": "Karma\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:05:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\appsettings.json",
+              "RelativeDocumentMoniker": "Karma\\appsettings.json",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\appsettings.json",
+              "RelativeToolTip": "Karma\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T20:04:19.69Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "KarmaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Data\\KarmaContext.cs",
+              "RelativeDocumentMoniker": "Karma\\Data\\KarmaContext.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Data\\KarmaContext.cs",
+              "RelativeToolTip": "Karma\\Data\\KarmaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:59:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Views\\Checkout\\Index.cshtml",
               "RelativeDocumentMoniker": "Karma\\Views\\Checkout\\Index.cshtml",
               "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Views\\Checkout\\Index.cshtml",
               "RelativeToolTip": "Karma\\Views\\Checkout\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABLAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-05T19:41:38.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Karma\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\3.ASP.NET MVC\\1.Projects\\Karma-MVC\\Backend\\Karma\\Karma\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Karma\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAB2AAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwDkAAAB2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-05T19:40:17.653Z",
               "EditorCaption": ""
