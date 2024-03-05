@@ -248,3 +248,4 @@ C:\Users\ROG\Desktop\Tamerlan\CODE ACADEMY\BACK-END\3.ASP.NET MVC\1.Projects\Kar
 C:\Users\ROG\Desktop\Tamerlan\CODE ACADEMY\BACK-END\3.ASP.NET MVC\1.Projects\Karma-MVC\Backend\Karma\Karma\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\ROG\Desktop\Tamerlan\CODE ACADEMY\BACK-END\3.ASP.NET MVC\1.Projects\Karma-MVC\Backend\Karma\Karma\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\ROG\Desktop\Tamerlan\CODE ACADEMY\BACK-END\3.ASP.NET MVC\1.Projects\Karma-MVC\Backend\Karma\Karma\obj\Debug\net6.0\Karma.sourcelink.json
+C:\Users\ROG\Desktop\Tamerlan\CODE ACADEMY\BACK-END\3.ASP.NET MVC\1.Projects\Karma-MVC\Backend\Karma\Karma\bin\Debug\net6.0\Rebus.dll
